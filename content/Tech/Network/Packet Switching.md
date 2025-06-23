@@ -1,0 +1,1 @@
+it is the method of data into short messages called packets .

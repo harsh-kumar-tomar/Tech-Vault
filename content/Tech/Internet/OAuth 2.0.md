@@ -1,0 +1,2 @@
+OAuth 2.0 is an authorization protocol and NOT an authentication protocol.
+OAuth 2.0 uses Access Tokens. An [[Access Token]] is a piece of data that represents the authorization to access resources on behalf of the end-user. OAuth 2.0 doesn’t define a specific format for Access Tokens. However, in some contexts, the [[JSON Web Token (JWT)]] format is often used.

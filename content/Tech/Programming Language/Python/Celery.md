@@ -1,0 +1,1 @@
+celery is a worker that works with broker like redis or rabbitMQ.

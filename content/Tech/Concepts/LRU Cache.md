@@ -1,0 +1,1 @@
+It is a type of cache replacement policy that removes the least recently accessed item when the cache reaches its capacity. It is commonly used in operating systems, databases, and web caching to optimize performance.
