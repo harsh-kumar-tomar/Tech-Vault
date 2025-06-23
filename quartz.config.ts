@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "harsh-kumar-tomar.github.io/Hypertext-Garden",
+    baseUrl: "harsh-kumar-tomar.github.io/Tech-Vault",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
