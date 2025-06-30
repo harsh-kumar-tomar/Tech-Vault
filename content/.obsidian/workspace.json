@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a127583342ccf8f7",
+        "id": "4f9adecdef51390a",
         "type": "tabs",
         "children": [
           {
-            "id": "828ddcd46a8b829d",
+            "id": "064b47f167d5fcc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Docker"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Celery/Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Implementation"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Celery/Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Implementation"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Celery/Implementation.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Implementation"
             }
           }
         ]
@@ -154,6 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "828ddcd46a8b829d",
-  "lastOpenFiles": []
+  "active": "064b47f167d5fcc4",
+  "lastOpenFiles": [
+    "Docker/Docker.md",
+    "Docker",
+    "Message Broker.md",
+    "Amazon SQS.md",
+    "Terminal.md",
+    "CP/CP.md",
+    "Celery/Implementation.md",
+    "Queue.md",
+    "CP/Python Code Snippets.md",
+    "CP",
+    "Redis",
+    "Kafka",
+    "AWS",
+    "RabbitMQ/Implementation.md",
+    "RabbitMQ/RabbitMQ.md",
+    "Computer  MOC.md",
+    "RabbitMQ",
+    "Celery/Celery.md",
+    "index.md",
+    "Django/App.md",
+    "Django/_Django.md",
+    "Django/Views.md",
+    "Django/Template.md",
+    "Django/Urls.md",
+    "Django/Syntax.md",
+    "Django/Setup.md",
+    "Django/Models.md",
+    "Django",
+    "Database/ACID.md",
+    "Database/_Database.md",
+    "Database",
+    "Concepts/Sha.md",
+    "Concepts/ORM.md",
+    "Concepts/LRU Cache.md",
+    "Concepts",
+    "Android"
+  ]
 }

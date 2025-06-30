@@ -1,3 +1,6 @@
+- RabbitMQ is a message broker — it queues messages between services.  
+- It acts like a post office: one service sends a message → RabbitMQ stores it → another service picks it up.
+
 why ?
 - Tracks which messages were delivered and acknowledged.
 - Can re-deliver unacknowledged messages.
