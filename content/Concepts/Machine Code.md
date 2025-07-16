@@ -1,0 +1,2 @@
+- The **actual binary instructions** that the CPU runs.
+- Written in **1s and 0s**, specific to a CPU architecture.

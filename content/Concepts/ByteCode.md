@@ -1,0 +1,5 @@
+- The **bytecode runs inside a virtual machine**.
+- This VM **acts as a gatekeeper** and ensures:
+    - You don’t access memory unsafely.
+    - You don’t touch files or networks unless allowed.
+    - You don’t crash the system even if your code has bugs.

@@ -1,0 +1,1 @@
+encoding is the  process of converting data into a specific format .
